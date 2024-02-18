@@ -12,7 +12,7 @@ To represent a Markov Decision Process(MDP) problem in the following ways.
 ## PROBLEM STATEMENT:
 
 ### Problem Description
-To Develop an environment contain some dirt and the agent is going to clean. The aim is to clean the dirty place.
+To Develop an environment contain some dirt and the agent is going to detect and clean the environment using vaccum. The aim is to clean the dirty place.
 
 ### State Space
 {Location A,Location B,Location C}
@@ -29,6 +29,7 @@ Location A
 3.Suck Dirt
 
 ### Sample Action
+
 Moving Right
 
 ### Reward Function
@@ -36,8 +37,7 @@ Moving Right
 
 2.0 - Otherwise
 ### Graphical Representation
-[RL.pdf](https://github.com/Dhanudhanaraj/mdp-representation/files/14323598/RL.pdf)
-
+![RL_page-0001](https://github.com/Dhanudhanaraj/mdp-representation/assets/119218812/c9c5fc75-92d5-4db0-a372-212edbb438c1)
 
 ## PYTHON REPRESENTATION:
 ```
