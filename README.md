@@ -15,7 +15,7 @@ To represent a Markov Decision Process(MDP) problem in the following ways.
 To Develop an environment contain some dirt and the agent is going to detect and clean the environment using vaccum. The aim is to clean the dirty place.
 
 ### State Space
-{Location A,Location B,Location C}
+{Location A,Location B,Location C} -> {0,1,2}
 
 ### Sample State
 Location A
